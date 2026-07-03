@@ -17,14 +17,14 @@
 
 ### 🔍 Hi, I'm Avinash Wagh
 
-**QA Engineer with 5 years of experience** in manual and automation testing across Web, Android and iOS platforms[cite: 1]. I specialize in building reliable automation frameworks using **Selenium + Java** and am actively levelling up with **Playwright + TypeScript**[cite: 1]. I've shipped quality across Healthcare, E-Commerce, ERP, and Productivity domains[cite: 1].
+**QA Engineer with 5 years of experience** in manual and automation testing across Web, Android and iOS platforms. I specialize in building reliable automation frameworks using **Selenium + Java** and am actively levelling up with **Playwright + TypeScript**. I've shipped quality across Healthcare, E-Commerce, ERP, and Productivity domains.
 
-- 🔭 Currently building **Playwright + TypeScript** automation at Nexios Technology — Healthcare & E-Commerce[cite: 1]
-- 🧪 5 years in **Functional, Regression, Smoke, Sanity, UAT & Integration** testing on Web, iOS & Android[cite: 1]
-- 🌐 Deep **API testing** with Postman & Swagger — auth, CRUD, schema & data integrity validation[cite: 1]
-- 📱 Cross-platform real-device testing via **BrowserStack** — iOS, Android & all major browsers[cite: 1]
-- 💬 Ask me about **Playwright, Selenium, BDD frameworks, JIRA workflows, API testing**[cite: 1]
-- 📫 Reach me at **avinashwagh1419@gmail.com**[cite: 1]
+- 🔭 Currently building **Playwright + TypeScript** automation at Nexios Technology — Healthcare & E-Commerce
+- 🧪 5 years in **Functional, Regression, Smoke, Sanity, UAT & Integration** testing on Web, iOS & Android
+- 🌐 Deep **API testing** with Postman & Swagger — auth, CRUD, schema & data integrity validation
+- 📱 Cross-platform real-device testing via **BrowserStack** — iOS, Android & all major browsers
+- 💬 Ask me about **Playwright, Selenium, BDD frameworks, JIRA workflows, API testing**
+- 📫 Reach me at **avinashwagh1419@gmail.com**
 
 ---
 
@@ -77,7 +77,7 @@
 
 #### 🎭 [Playwright Automation Framework](https://github.com/QA-avinashwagh/playwright-automation-framework)
 
-Production-ready E2E framework with **Page Object Model**, parallel test execution, and **GitHub Actions CI**[cite: 1]. Built for a live Healthcare application with both UI and API test coverage using Playwright's built-in request context[cite: 1].
+Production-ready E2E framework with **Page Object Model**, parallel test execution, and **GitHub Actions CI**. Built for a live Healthcare application with both UI and API test coverage using Playwright's built-in request context.
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
@@ -88,7 +88,7 @@ Production-ready E2E framework with **Page Object Model**, parallel test executi
 
 #### 🔬 [Selenium Java BDD Framework](https://github.com/QA-avinashwagh/selenium-java-bdd)
 
-Enterprise Selenium framework with TestNG, Cucumber BDD, data-driven testing, cross-browser execution and custom Extent Reports[cite: 1]. Full regression suite covering E-Commerce user journeys[cite: 1].
+Enterprise Selenium framework with TestNG, Cucumber BDD, data-driven testing, cross-browser execution and custom Extent Reports. Full regression suite covering E-Commerce user journeys.
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://selenium.dev)
@@ -99,7 +99,7 @@ Enterprise Selenium framework with TestNG, Cucumber BDD, data-driven testing, cr
 
 #### 📡 [API Testing Collection — Postman](https://github.com/QA-avinashwagh/api-testing-postman)
 
-Structured Postman collection for a Healthcare REST API — authentication flows, CRUD validation, JSON schema checks, and environment-based config for dev/staging[cite: 1]. Automated via Newman CLI[cite: 1].
+Structured Postman collection for a Healthcare REST API — authentication flows, CRUD validation, JSON schema checks, and environment-based config for dev/staging. Automated via Newman CLI.
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://postman.com)
 [![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman)
@@ -108,42 +108,42 @@ Structured Postman collection for a Healthcare REST API — authentication flows
 
 ### 🏆 Key Achievements
 
-- ✅ **Automation Delivery:** Built Playwright + TypeScript framework from scratch for a live Healthcare product at Nexios[cite: 1]
-- ✅ **Cross-Platform Coverage:** Validated 5+ apps across Web, iOS & Android including BrowserStack device farms[cite: 1]
-- ✅ **Test Architecture:** Designed POM-based Selenium + Cucumber BDD frameworks for reusable, readable test suites[cite: 1]
-- ✅ **API Quality:** Deep Postman testing across Healthcare & E-Commerce — auth, CRUD, schema & data integrity[cite: 1]
-- ✅ **Regression Ownership:** Maintained living regression checklists ensuring critical flows validated every release[cite: 1]
-- ✅ **Defect Management:** Full JIRA defect lifecycle — log to closure — across 10+ projects and 3 domains[cite: 1]
-- ✅ **Client Communication:** Daily client-facing defect reporting and progress updates at Vasundhara InfoTech[cite: 1]
+- ✅ **Automation Delivery:** Built Playwright + TypeScript framework from scratch for a live Healthcare product at Nexios
+- ✅ **Cross-Platform Coverage:** Validated 5+ apps across Web, iOS & Android including BrowserStack device farms
+- ✅ **Test Architecture:** Designed POM-based Selenium + Cucumber BDD frameworks for reusable, readable test suites
+- ✅ **API Quality:** Deep Postman testing across Healthcare & E-Commerce — auth, CRUD, schema & data integrity
+- ✅ **Regression Ownership:** Maintained living regression checklists ensuring critical flows validated every release
+- ✅ **Defect Management:** Full JIRA defect lifecycle — log to closure — across 10+ projects and 3 domains
+- ✅ **Client Communication:** Daily client-facing defect reporting and progress updates at Vasundhara InfoTech
 
 ---
 
 ### 💼 Work Experience
 
 **🏢 Nexios Technology LLP** — QA Software Tester
-📅 `Feb 2024 – Present` · Surat, GJ[cite: 1]
+📅 `Feb 2024 – Present` · Surat, GJ
 
-Embedded in product squads testing Healthcare, E-Commerce and Productivity apps[cite: 1]. Built Selenium (Java + Cucumber BDD) automation and expanding Playwright (JS/TS) coverage[cite: 1]. Full defect lifecycle in JIRA[cite: 1].
+Embedded in product squads testing Healthcare, E-Commerce and Productivity apps. Built Selenium (Java + Cucumber BDD) automation and expanding Playwright (JS/TS) coverage. Full defect lifecycle in JIRA.
 
-> *Projects:* Care Coordinations (Healthcare · Web/iOS/Android) · The Diamond Box (E-Commerce) · Expense Manager (iOS) · Calendar App (Android) · QR Guide (Web)[cite: 1]
+> *Projects:* Care Coordinations (Healthcare · Web/iOS/Android) · The Diamond Box (E-Commerce) · Expense Manager (iOS) · Calendar App (Android) · QR Guide (Web)
 
 ---
 
 **🏢 Solwin Infotech LLP** — QA Software Tester
-📅 `Aug 2023 – Jan 2024` · Surat, GJ[cite: 1]
+📅 `Aug 2023 – Jan 2024` · Surat, GJ
 
-Manual testing of WordPress plugins — functional, regression, cross-browser and cross-platform validation[cite: 1].
+Manual testing of WordPress plugins — functional, regression, cross-browser and cross-platform validation.
 
-> *Projects:* All in One Reservation · Timeline Designer[cite: 1]
+> *Projects:* All in One Reservation · Timeline Designer
 
 ---
 
 **🏢 Vasundhara InfoTech Pvt Ltd** — QA Software Tester
-📅 `Jun 2021 – Jul 2023` · Surat, GJ[cite: 1]
+📅 `Jun 2021 – Jul 2023` · Surat, GJ
 
-End-to-end manual and API testing of Web & Mobile apps[cite: 1]. Daily client communication, test design and defect documentation[cite: 1].
+End-to-end manual and API testing of Web & Mobile apps. Daily client communication, test design and defect documentation.
 
-> *Projects:* Club Mall (E-Commerce · Web/iOS/Android) · House of Pianos (E-Commerce) · AccuBow 2023 (Gaming · iOS/Android)[cite: 1]
+> *Projects:* Club Mall (E-Commerce · Web/iOS/Android) · House of Pianos (E-Commerce) · AccuBow 2023 (Gaming · iOS/Android)
 
 ---
 
@@ -164,7 +164,7 @@ End-to-end manual and API testing of Web & Mobile apps[cite: 1]. Daily client co
 ### 🎓 Education
 
 🎓 **BE – Electronics and Telecommunication Engineering**
-Sandip Foundation Technology & Research Centre, Nashik, MH[cite: 1]
+Sandip Foundation Technology & Research Centre, Nashik, MH
 
 ---
 
